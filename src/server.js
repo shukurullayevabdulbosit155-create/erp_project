@@ -1,29 +1,38 @@
-import express from "express"
+import express from "express" 
 import main from "./routers/index.js"
+import fileUpload from "express-fileupload"
 import "dotenv/config"
 import fs from "fs"
 import path from "path"
 
 const app = express()
 app.use(express.json())
+app.use(fileUpload())
 app.use(main)
 
 app.use((error, req,res, next) =>{
 
-      if(error.status < 500) {
-          return res.status(error.status).json({
+  
+
+if(error.status < 500) {
+
+  return res.status(error.status).json({
             status:error.status,
             message:error.message  
-          })
-      }else{
+  })
+  
+  }else{
+
         fs.appendFileSync(path.join(process.cwd(),"src", "log", "logger.text"),
-        `[${new Date().toLocaleString()}]-${req.method}-${req.url}-${error.name}-${error.message}/n`
-      )
-          return res.status(error.status).json({
+        `[${new Date().toLocaleString()}]-${req.method}-${req.url}-${error.message}\n`)
+
+        return res.status(error.status).json({
             status:error.status,
             message:"Internal Server Error"
-          })
-      }
+        })  
+
+    }
+
 })
 
 app.listen(process.env.PORT, (err) => {
