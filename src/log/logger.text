@@ -1,0 +1,122 @@
+[10/30/2026, 8:21:07 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[10/31/2026, 6:07:12 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[10/31/2026, 8:29:02 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[10/31/2026, 8:29:05 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[10/31/2026, 8:29:05 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[10/31/2026, 8:29:07 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[10/31/2026, 8:29:09 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[10/31/2026, 8:29:12 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[11/2/2026, 12:14:25 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[11/2/2026, 12:14:25 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[11/2/2026, 12:16:37 PM]-GET-/api/v1/staff-TypeError-next is not a function/n[11/2/2026, 12:19:20 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:19:21 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:21:35 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:22:49 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:34:57 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:35:00 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:38:33 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:38:36 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:38:40 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:38:44 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:39:26 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:44:00 PM]-GET-/api/v1/staff-TypeError-next is not a function
+[11/2/2026, 12:56:06 PM]-GET-/api/v1/staff-next is not a function
+[11/2/2026, 12:59:22 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 12:59:24 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 12:59:41 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 12:59:43 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 12:59:44 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:12:11 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:12:52 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:12:54 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:17:19 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:17:21 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:17:32 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:17:33 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:17:35 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:17:37 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:47:28 PM]-GET-/api/v1/staff-Cannot read properties of undefined (reading 'getStaff')
+[11/2/2026, 1:54:30 PM]-GET-/api/v1/staff-ReferenceError: a is not defined
+[11/2/2026, 3:48:46 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/2/2026, 3:48:48 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/2/2026, 3:48:49 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/2/2026, 3:48:50 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/2/2026, 3:54:31 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/3/2026, 11:40:37 AM]-POST-/api/v1/students-error: relation "student" does not exist
+[11/3/2026, 11:41:08 AM]-POST-/api/v1/students-error: relation "student" does not exist
+[11/3/2026, 11:41:10 AM]-POST-/api/v1/students-error: relation "student" does not exist
+[11/3/2026, 11:41:12 AM]-POST-/api/v1/students-error: relation "student" does not exist
+[11/3/2026, 11:41:35 AM]-POST-/api/v1/students-error: relation "student" does not exist
+[11/3/2026, 11:41:38 AM]-POST-/api/v1/students-error: relation "student" does not exist
+[11/3/2026, 11:44:42 AM]-POST-/api/v1/students-error: null value in column "fullname" of relation "students" violates not-null constraint
+[11/3/2026, 11:45:00 AM]-POST-/api/v1/students-error: null value in column "fullname" of relation "students" violates not-null constraint
+[11/3/2026, 11:45:03 AM]-POST-/api/v1/students-error: null value in column "fullname" of relation "students" violates not-null constraint
+[11/3/2026, 11:49:23 AM]-POST-/api/v1/students-error: null value in column "fullname" of relation "students" violates not-null constraint
+[11/3/2026, 11:53:46 AM]-POST-/api/v1/students-error: null value in column "fullname" of relation "students" violates not-null constraint
+[11/3/2026, 11:56:27 AM]-POST-/api/v1/students-ReferenceError: fullname is not defined
+[11/3/2026, 11:56:44 AM]-POST-/api/v1/students-ReferenceError: fullname is not defined
+[11/3/2026, 12:21:00 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/3/2026, 12:25:39 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/3/2026, 12:25:56 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/3/2026, 12:28:11 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/3/2026, 12:28:23 PM]-POST-/api/v1/auth/login-TypeError: Cannot destructure property 'phone' of 'req.body' as it is undefined.
+[11/3/2026, 12:39:19 PM]-GET-/api/v1/students-column "photo" does not exist
+[11/3/2026, 12:39:23 PM]-GET-/api/v1/students-column "photo" does not exist
+[11/3/2026, 7:25:37 PM]-POST-/api/v1/categoies-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/3/2026, 7:26:05 PM]-POST-/api/v1/categoies-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/3/2026, 7:27:08 PM]-POST-/api/v1/categoies-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/3/2026, 7:27:09 PM]-POST-/api/v1/categoies-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/3/2026, 7:29:11 PM]-POST-/api/v1/categoies-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/3/2026, 7:30:39 PM]-POST-/api/v1/categoies-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/3/2026, 7:31:24 PM]-POST-/api/v1/categoies-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/3/2026, 7:31:28 PM]-POST-/api/v1/categoies-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/3/2026, 9:04:50 PM]-POST-/api/v1/courses-ReferenceError: file is not defined
+[11/3/2026, 9:08:46 PM]-POST-/api/v1/courses-error: column "discription" of relation "courses" does not exist
+[11/3/2026, 9:09:44 PM]-POST-/api/v1/courses-error: bind message supplies 5 parameters, but prepared statement "" requires 7
+[11/4/2026, 3:02:21 PM]-GET-/api/v1/courses-column "discription" does not exist
+[11/4/2026, 3:02:23 PM]-GET-/api/v1/courses-column "discription" does not exist
+[11/4/2026, 3:04:39 PM]-GET-/api/v1/courses-column "created_at" does not exist
+[11/4/2026, 3:21:13 PM]-POST-/api/v1/courses-TypeError: Cannot read properties of undefined (reading 'mimetype')
+[11/4/2026, 3:32:00 PM]-POST-/api/v1/courses-TypeError: Cannot read properties of undefined (reading 'mimetype')
+[11/4/2026, 3:32:02 PM]-POST-/api/v1/courses-TypeError: Cannot read properties of undefined (reading 'mimetype')
+[11/4/2026, 8:35:03 PM]-GET-/api/v1/staff-TypeError: Cannot read properties of undefined (reading 'role')
+[11/4/2026, 8:35:24 PM]-GET-/api/v1/staff-TypeError: Cannot read properties of undefined (reading 'role')
+[11/4/2026, 8:45:51 PM]-POST-/api/v1/courses-error: bind message supplies 7 parameters, but prepared statement "" requires 8
+[11/4/2026, 8:48:16 PM]-POST-/api/v1/courses-error: column "teacherid" of relation "courses" does not exist
+[11/4/2026, 8:48:18 PM]-POST-/api/v1/courses-error: column "teacherid" of relation "courses" does not exist
+[11/5/2026, 9:11:20 AM]-POST-/api/v1/sections-TypeError: Cannot read properties of undefined (reading 'teacher_id')
+[11/5/2026, 9:11:22 AM]-POST-/api/v1/sections-TypeError: Cannot read properties of undefined (reading 'teacher_id')
+[11/5/2026, 9:11:49 AM]-POST-/api/v1/sections-TypeError: Cannot read properties of undefined (reading 'teacher_id')
+[11/5/2026, 9:14:02 AM]-POST-/api/v1/sections-TypeError: Cannot read properties of undefined (reading 'teacher_id')
+[11/5/2026, 9:14:04 AM]-POST-/api/v1/sections-TypeError: Cannot read properties of undefined (reading 'teacher_id')
+[11/5/2026, 9:14:05 AM]-POST-/api/v1/sections-TypeError: Cannot read properties of undefined (reading 'teacher_id')
+[11/5/2026, 9:15:04 AM]-POST-/api/v1/sections-TypeError: Cannot read properties of undefined (reading 'teacher_id')
+[11/5/2026, 9:15:06 AM]-POST-/api/v1/sections-TypeError: Cannot read properties of undefined (reading 'teacher_id')
+[11/5/2026, 9:22:23 AM]-POST-/api/v1/auth/login-TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received type number (123456)
+[11/6/2026, 3:59:37 PM]-POST-/api/v1/lessons-Error: ENOENT: no such file or directory, open 'C:\Users\user\Desktop\erp_project\src\uploads\lessons_file\1793962777647.mp4'
+[11/6/2026, 8:31:34 PM]-POST-/api/v1/materials-error: column "course_id" does not exist
+[11/6/2026, 8:32:34 PM]-POST-/api/v1/materials-error: column "course_id" does not exist
+[11/6/2026, 8:42:46 PM]-POST-/api/v1/materials-TypeError: process.swd is not a function
+[11/6/2026, 8:42:47 PM]-POST-/api/v1/materials-TypeError: process.swd is not a function
+[11/7/2026, 11:34:24 AM]-GET-/api/v1/materials/1-ReferenceError: existLesson is not defined
+[11/8/2026, 10:28:14 AM]-GET-/api/v1/tasks/1-tasksService.getTaskBySectionId is not a function
+[11/8/2026, 10:28:27 AM]-GET-/api/v1/tasks/1-tasksService.getTaskBySectionId is not a function
+[11/8/2026, 10:32:19 AM]-GET-/api/v1/tasks/1-TypeError: Cannot destructure property 'lesson_id' of 'req.body' as it is undefined.
+[11/8/2026, 10:34:24 AM]-GET-/api/v1/tasks/1-TypeError: Cannot destructure property 'lesson_id' of 'req.body' as it is undefined.
+[11/8/2026, 10:34:25 AM]-GET-/api/v1/tasks/1-TypeError: Cannot destructure property 'lesson_id' of 'req.body' as it is undefined.
+[11/8/2026, 10:39:09 AM]-POST-/api/v1/tasks?-resData is not defined
+[11/8/2026, 10:39:14 AM]-POST-/api/v1/tasks-resData is not defined
+[11/8/2026, 10:40:55 AM]-POST-/api/v1/tasks-resData is not defined
+[11/8/2026, 10:42:06 AM]-POST-/api/v1/tasks-resData is not defined
+[11/8/2026, 10:46:11 AM]-POST-/api/v1/tasks-resData is not defined
+[11/8/2026, 12:44:22 PM]-POST-/api/v1/exams-TypeError: Cannot destructure property 'lesson_id' of 'req.body' as it is undefined.
+[11/8/2026, 12:49:09 PM]-POST-/api/v1/exams-error: relation "exmas" does not exist
+[11/8/2026, 4:15:56 PM]-POST-/api/v1/students-TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+[11/8/2026, 4:16:50 PM]-POST-/api/v1/students-TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+[11/8/2026, 4:18:30 PM]-POST-/api/v1/students-error: duplicate key value violates unique constraint "students_phone_key"
+[11/8/2026, 4:36:54 PM]-POST-/api/v1/auth/login-error: relation "teachers" does not exist
+[11/8/2026, 4:41:02 PM]-POST-/api/v1/auth/login-error: relation "teachers" does not exist
+[11/9/2026, 10:44:07 AM]-POST-/api/v1/auth/login-error: relation "teachers" does not exist
+[11/9/2026, 10:55:12 AM]-POST-/api/v1/auth/login-error: relation "teachers" does not exist
+[11/9/2026, 10:56:59 AM]-POST-/api/v1/auth/login-error: relation "teachers" does not exist
+[11/9/2026, 11:03:09 AM]-POST-/api/v1/auth/login-error: relation "teachers" does not exist
+[11/9/2026, 11:23:33 AM]-GET-/api/v1/students/my/courses-error: relation "teachers" does not exist
+[11/9/2026, 11:28:31 AM]-POST-/api/v1/students-error: duplicate key value violates unique constraint "students_phone_key"
+[11/9/2026, 11:36:57 AM]-POST-/api/v1/students-error: duplicate key value violates unique constraint "students_phone_key"
+[11/9/2026, 6:43:22 PM]-POST-/api/v1/courses-TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[11/9/2026, 6:44:13 PM]-POST-/api/v1/courses-error: insert or update on table "courses" violates foreign key constraint "courses_category_id_fkey"
+[11/10/2026, 4:04:49 PM]-POST-/api/v1/auth/login-TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+[11/10/2026, 4:04:55 PM]-POST-/api/v1/auth/login-TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+[11/10/2026, 4:06:17 PM]-POST-/api/v1/auth/login-TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+[11/10/2026, 6:41:02 PM]-POST-/api/v1/exams-error: new row for relation "exams" violates check constraint "exams_answer_check"
+[11/10/2026, 9:27:52 PM]-POST-/api/v1/students-error: duplicate key value violates unique constraint "students_phone_key"

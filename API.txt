@@ -1,0 +1,233 @@
+0 ADMINLAR narsalri
+
+http://localhost:4545/videos/1794313375897.mp4
+
+POST http://localhost:4545/api/v1/staff/admin
+Admin yaratish
+
+GET http://localhost:4545/api/v1/staff
+Barcha adminlarni olish.
+
+DELETE http://localhost:4545/api/v1/staff/4
+Adminni o‘chirish
+
+
+1 AUTH narslar
+
+POST http://localhost:4545/api/v1/auth/login
+
+Tizimga kirish
+
+
+
+2 STAFF narsar 
+
+GET http://localhost:4545/api/v1/staff
+Barcha xodimlarni olish.
+
+POST http://localhost:4545/api/v1/staff
+Yangi xodim yaratish.
+
+PUT http://localhost:4545/api/v1/staff/:userId
+Xodim ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/staff/:userId
+Xodimni bloklash.
+
+
+
+
+
+3. TEACHER narlsar
+
+GET http://localhost:4545/api/v1/teachers
+Barcha o‘qituvchilarni olish.
+
+POST http://localhost:4545/api/v1/teachers
+Yangi o‘qituvchi yaratish.
+
+PUT http://localhost:4545/api/v1/teachers/:teacherId
+O‘qituvchi ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/teachers/:teacherId
+O‘qituvchini bloklash.
+
+
+
+
+13. ASSISTANT narsalar
+GET http://localhost:4545/api/v1/assistants
+Barcha assistantlarni olish.
+
+
+GET http://localhost:4545/api/v1/assistants/:assistantId/sections — assistant biriktirilgan guruhlarni ko‘rish.
+
+POST http://localhost:4545/api/v1/assistants
+Yangi assistant yaratish.
+
+PUT http://localhost:4545/api/v1/assistants/:assistantId
+Assistant ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/assistants/:assistantId
+Assistantni inactive qilish.
+
+POST http://localhost:4545/api/v1/assistants/sections
+Assistantni guruhga biriktirish.
+
+DELETE http://localhost:4545/api/v1/assistants/sections
+Assistantni guruhdan ajratish.
+
+
+
+
+4. STUDENT NARSALR
+
+GET http://localhost:4545/api/v1/students
+Barcha o‘quvchilarni olish.
+
+POST http://localhost:4545/api/v1/students
+Yangi o‘quvchi ro‘yxatdan o‘tkazish.
+
+GET http://localhost:4545/api/v1/students/my/courses
+O‘quvchining o‘z kurslarini olish.
+
+POST http://localhost:4545/api/v1/students/purchase
+O‘quvchi kursni tanlab, unga yozilishi.
+
+PUT http://localhost:4545/api/v1/students/:studentId
+O‘quvchi ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/students/:studentId
+O‘quvchini bloklash.
+
+
+5. CATEGORY NARLSAIR
+
+GET http://localhost:4545/api/v1/categoies
+Barcha kategoriyalarni olish.
+
+POST http://localhost:4545/api/v1/categoies
+Yangi kategoriya yaratish.
+
+PUT http://localhost:4545/api/v1/categoies/:categoryId
+Kategoriya ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/categoies/:categoryId
+Kategoriyani o‘chirish.
+
+
+6. COURSE NARILASI
+
+GET http://localhost:4545/api/v1/courses/all
+Barcha faol va tasdiqlangan kurslarni olish.
+
+GET http://localhost:4545/api/v1/courses/my
+O‘qituvchi yoki o‘quvchining kurslarini olish.
+
+POST http://localhost:4545/api/v1/courses
+Yangi kurs yaratish.
+
+PUT http://localhost:4545/api/v1/course/approved/:courseId
+Kursni tasdiqlash yoki tasdiqni bekor qilish.
+
+PUT http://localhost:4545/api/v1/courses/:courseId
+Kurs ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/courses/:courseId
+Kursni o‘chirish.
+
+GET http://localhost:4545/api/v1/courses/category/:categoryId
+Kategoriya bo‘yicha kurslarni olish.
+
+
+7. SECTION NARSALARI 
+
+GET http://localhost:4545/api/v1/sections/all
+Barcha bo‘limlarni olish.
+
+GET http://localhost:4545/api/v1/sections/:courseId
+Kurs bo‘limlarini olish.
+
+POST http://localhost:4545/api/v1/sections
+Yangi bo‘lim yaratish.
+
+PUT http://localhost:4545/api/v1/sections/:sectionId
+Bo‘lim ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/sections/:sectionId
+Bo‘limni o‘chirish.
+
+
+8. LESSON NARALSARI
+
+GET http://localhost:4545/api/v1/lessons/:sectionId
+Bo‘lim darslarini olish.
+
+GET http://localhost:4545/api/v1/lessons
+Barcha darslarni olish.
+
+POST http://localhost:4545/api/v1/lessons
+Yangi dars yaratish.
+
+PUT http://localhost:4545/api/v1/lessons/:lessonId
+Dars ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/lessons/:lessonId
+Darsni o‘chirish.
+
+
+9. MATERIAL NARSALRI 
+
+GET http://localhost:4545/api/v1/materials/all
+Barcha materiallarni olish.
+
+GET http://localhost:4545/api/v1/materials/:lessonId
+Dars materiallarini olish.
+
+POST http://localhost:4545/api/v1/materials
+Yangi material qo‘shish.
+
+PUT http://localhost:4545/api/v1/materials/:materialId
+Material ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/materials/:materialId
+Materialni o‘chirish.
+
+
+10. TASK NARSQALRI 
+
+GET http://localhost:4545/api/v1/tasks/:lessonId
+Dars topshiriqlarini olish.
+
+POST http://localhost:4545/api/v1/tasks
+Yangi topshiriq qo‘shish.
+
+PUT http://localhost:4545/api/v1/tasks/:taskId
+Topshiriq ma’lumotlarini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/tasks/:taskId
+Topshiriqni o‘chirish.
+
+
+11. EXAM NARSALRI 
+
+GET http://localhost:4545/api/v1/exams/:lessonId
+Dars imtihonlarini olish.
+
+POST http://localhost:4545/api/v1/exams
+Yangi imtihon savoli yaratish.
+
+PUT http://localhost:4545/api/v1/exams/:examId
+Imtihon savolini o‘zgartirish.
+
+DELETE http://localhost:4545/api/v1/exams/:examId
+Imtihon savolini o‘chirish.
+
+
+12. UPLOAD niki
+
+http://localhost:4545/uploads/
+Yuklangan fayllarni ko‘rish.
+
+Misol:
+http://localhost:4545/uploads/banner/FILE_NAME.png
